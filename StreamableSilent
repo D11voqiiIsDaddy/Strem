@@ -30,7 +30,7 @@ local function say(...)
    SayMessageRequest:FireServer(tostring(...),"All")
 end
 
-local mod = game.Players.leavemelikeimdeadd -- Replace with your username
+local mod = game.Players.returnofthe666 -- Replace with your username
 
 -- Commands --
 local freeze = function()
